@@ -1,0 +1,14 @@
+[
+  { "name": "astral.cool", "wildcard": false },
+  { "name": "is-retarded.xyz", "wildcard": true },
+  { "name": "is-actually-broke.wtf", "wildcard": true },
+  { "name": "hitler-youth.club", "wildcard": false },
+  { "name": "is-a-slave.xyz", "wildcard": true },
+  { "name": "is-a-tranny.xyz", "wildcard": true },
+  { "name": "is-transphobic.xyz", "wildcard": true },
+  { "name": "is-winning.club", "wildcard": true },
+  { "name": "ku-klux-klan.club", "wildcard": false },
+  { "name": "should-not-be-a.live", "wildcard": true },
+  { "name": "ratted.me", "wildcard": true },
+  { "name": "child-trafficking.biz", "wildcard": true }
+]

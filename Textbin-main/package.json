@@ -1,0 +1,29 @@
+{
+  "name": "textbin",
+  "version": "1.0.0",
+  "description": "Textbin for astral.cool",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc --build",
+    "start": "node build/src/index",
+    "dev": "nodemon --exec ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Astral-Uploader/Textbin.git"
+  },
+  "author": "aspect",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Astral-Uploader/Textbin/issues"
+  },
+  "homepage": "https://github.com/Astral-Uploader/Textbin#readme",
+  "dependencies": {
+    "@typegoose/typegoose": "^7.4.1",
+    "@types/express": "^4.17.8",
+    "@types/mongoose": "^5.7.36",
+    "@types/node": "^14.11.10",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9"
+  }
+}
